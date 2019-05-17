@@ -1,0 +1,12 @@
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\TheGuessingGame.deps.json
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\TheGuessingGame.runtimeconfig.json
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\TheGuessingGame.runtimeconfig.dev.json
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\TheGuessingGame.dll
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\TheGuessingGame.pdb
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.csprojAssemblyReference.cache
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.csproj.CoreCompileInputs.cache
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.AssemblyInfoInputs.cache
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.AssemblyInfo.cs
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.dll
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\obj\Debug\netcoreapp2.1\TheGuessingGame.pdb
+C:\Utveckling\Technical interview\TheGuessingGame-JimmyM-v2\TheGuessingGame\bin\Debug\netcoreapp2.1\appsettings.json
